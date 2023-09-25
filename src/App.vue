@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import ThenTest from "./components/ThenTest.vue";
+import DisablingButtonTest from "./components/DisablingButtonTest.vue";
 </script>
 
 <template>
@@ -11,7 +11,7 @@ import ThenTest from "./components/ThenTest.vue";
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <ThenTest />
+  <DisablingButtonTest />
 </template>
 
 <style scoped>
